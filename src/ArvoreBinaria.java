@@ -112,6 +112,7 @@ public class ArvoreBinaria {
         System.out.println(espaco + "       "+ conexao+"  "+ no.valor+" ");
         mostrarArvoreRecursivamente2(no.esquerda, espaco + "     ", true);
     }
+
 }
 
 
